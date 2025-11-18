@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **Gustavo Cardoso Machado**  
+# 👋 Olá, eu sou **Gustavo Cardoso**  
 
 ---
 
