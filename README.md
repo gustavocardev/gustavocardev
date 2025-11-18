@@ -23,6 +23,11 @@ Back-End Developer em formação
 
 ---
 
+🎯 Objetivo atual
+📌 Conquistar minha primeira vaga como Back-End Developer Júnior em empresas que valorizem aprendizado contínuo, mentoria e boas práticas de desenvolvimento.
+
+---
+
 ## 🌐 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocardosomachado/)  
  
