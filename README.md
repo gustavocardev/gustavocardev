@@ -25,7 +25,7 @@ Back-End Developer em formação
 ---
  
 ## 🎯 Objetivo atual
-📌 Conquistar minha primeira vaga como Back-End Developer Júnior em empresas que valorizem aprendizado contínuo, mentoria e boas práticas de desenvolvimento.
+📌 Conquistar minha primeira vaga como Developer Júnior em empresas que valorizem aprendizado contínuo, mentoria e boas práticas de desenvolvimento.
 
 ---
 
