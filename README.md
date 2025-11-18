@@ -22,8 +22,8 @@ Back-End Developer em formação
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-🎯 Objetivo atual
+ 
+## 🎯 Objetivo atual
 📌 Conquistar minha primeira vaga como Back-End Developer Júnior em empresas que valorizem aprendizado contínuo, mentoria e boas práticas de desenvolvimento.
 
 ---
