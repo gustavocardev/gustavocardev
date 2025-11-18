@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou **Gustavo Cardoso**  
 
-Back-End Developer em formação
-
 ---
 
 ## 🚀 Sobre mim  
