@@ -108,9 +108,9 @@ gustavo = {
 |---|---|---|
 | ☁️ Oracle Cloud Infrastructure Foundations Associate | Oracle | **Certificação** |
 | ☁️ AWS — Começando em Cloud | Alura | Curso |
-| ⚙️ AWS + Terraform (IaC) | Impacta Tecnologia | Curso (15h) |
-| 💻 Desenvolvedor Web Java | Impacta Tecnologia | Curso |
-| 📊 Data Science: Cibersegurança Orientada por Dados | Alura | Curso |
+| ⚙️ AWS + Terraform (IaC) | Impacta Tecnologia | Curso |
+| 💻 Desenvolvedor Web Java | Senac | Curso |
+
 
 ---
 
