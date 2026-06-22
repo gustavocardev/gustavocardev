@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Gustavo Cardoso**, 19 anos, estudante de **Sistemas de Informação** na Impacta Tecnologia e **Estagiário de Segurança da Informação** na Wickbold.
+Sou **Gustavo Cardoso**, 18 anos, estudante de **Sistemas de Informação** na Impacta Tecnologia e **Estagiário de Segurança da Informação** na Wickbold.
 
 Minha principal conquista foi **automatizar o pipeline de relatórios semanais** com Python, Power Query, DAX e Power BI, reduzindo em **80% o tempo de preparação manual** e transformando dados operacionais em KPIs visuais para tomada de decisão.
 
@@ -110,7 +110,6 @@ gustavo = {
 | ☁️ AWS — Começando em Cloud | Alura | Curso |
 | ⚙️ AWS + Terraform (IaC) | Impacta Tecnologia | Curso |
 | 💻 Desenvolvedor Web Java | Senac | Curso |
-
 
 ---
 
