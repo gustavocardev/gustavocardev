@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Gustavo Cardoso**, 18 anos, estudante de **Análise e Desenvolvimento de Sistemas** na Impacta Tecnologia e **Estagiário de Segurança da Informação** na Wickbold.
+Sou **Gustavo Cardoso**, 18 anos, estudante de **Sistemas de Informação** na Impacta Tecnologia e **Estagiário de Segurança da Informação** na Wickbold.
 
 Minha principal conquista foi **automatizar o pipeline de relatórios semanais** com Python, Power Query, DAX e Power BI, reduzindo em **80% o tempo de preparação manual** e transformando dados operacionais em KPIs visuais para tomada de decisão.
 
@@ -23,7 +23,7 @@ Tenho paixão por **dados, automação e cloud** — e acredito que tecnologia b
 ```python
 gustavo = {
     "localização": "Diadema, São Paulo 📍",
-    "formação":    "ADS - Impacta Tecnologia (2025–2027)",
+    "formação":    "Sistemas de Informação - Impacta Tecnologia (2025–2027)",
     "atuação":     "Segurança da Informação @ Wickbold",
     "interesses":  ["Data Science", "Machine Learning", "Cloud & DevOps", "IA Generativa"],
     "conquista":   "Automação de pipeline → redução de 80% no tempo manual 🚀"
