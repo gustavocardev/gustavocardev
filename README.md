@@ -11,7 +11,7 @@ gustavo = {
     "localização": "Diadema, São Paulo 📍",
     "formação":    "Sistemas de Informação - Impacta Tecnologia (2025–2028)",
     "atuação":     "Segurança da Informação @ Wickbold",
-    "interesses":  ["Data Science", "Machine Learning", "Cloud & DevOps", "IA Generativa"],
+    "interesses":  ["Data Science", "Machine Learning", "Cloud & DevOps", "Desenvolvimento"],
     "conquista":   "Automação de pipeline → redução de 80% no tempo manual 🚀"
 }
 ```
