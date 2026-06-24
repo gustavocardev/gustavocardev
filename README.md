@@ -1,12 +1,3 @@
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavocardosomachado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocardosomachado)
-[![GitHub](https://img.shields.io/badge/GitHub-gustavocardev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavocardev)
-[![Gmail](https://img.shields.io/badge/Gmail-gustavo.cardosomachado01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.cardosomachado01@gmail.com)
-
-</div>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou **Gustavo Cardoso**, 18 anos, estudante de **Sistemas de Informação** na Impacta Tecnologia e **Estagiário de Segurança da Informação** na Wickbold.
@@ -120,4 +111,8 @@ gustavo = {
 - Suporte administrativo com Pacote Office
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavocardosomachado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocardosomachado)
+[![GitHub](https://img.shields.io/badge/GitHub-gustavocardev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavocardev)
+[![Gmail](https://img.shields.io/badge/Gmail-gustavo.cardosomachado01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.cardosomachado01@gmail.com)
 
