@@ -126,10 +126,3 @@ gustavo = {
 
 ---
 
-<div align="center">
-
-**"Transformando dados em decisões, um pipeline de cada vez."** 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=gustavocardev&color=F97316&style=for-the-badge)
-
-</div>
