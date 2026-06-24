@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Gustavo+Cardoso!+%F0%9F%91%8B;Dados+%7C+Cloud+%7C+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es!" alt="Typing SVG" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavocardosomachado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocardosomachado)
 [![GitHub](https://img.shields.io/badge/GitHub-gustavocardev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavocardev)
