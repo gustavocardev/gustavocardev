@@ -52,17 +52,6 @@ gustavo = {
 
 ## 🚀 Projetos em Destaque
 
-### 🔐 Análise de Dados: Cibersegurança Orientada por Dados
-> Projeto completo de Data Science aplicado à cibersegurança
-
-- **549 registros** consolidados de **3 fontes de dados** distintas
-- Classificação de **8 tipos de incidentes** em **6 categorias estratégicas**
-- Identificação dos **top 5 usuários** com maior volume de chamados
-- Mapeamento de ataques provenientes de **8 países**
-- Dashboard interativo no **Power BI** para apoio à tomada de decisão
-
-`Python` `Pandas` `Matplotlib` `Seaborn` `Power BI`
-
 ---
 
 ### 🧑‍💼 API REST — Gerenciamento de Usuários
